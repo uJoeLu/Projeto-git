@@ -1,4 +1,4 @@
-# Projeto Git
+# Projeto Git -  Verão Final
 
 Este é um repostório de teste para aprendizado de Git.
 
