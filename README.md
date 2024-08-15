@@ -1,3 +1,3 @@
-# Projeto-git
+# Projeto Git
 
-Este  é um repositório de teste  para o aprendizado de Git.
+Este é um repostório de teste para aprendizado de Git.
